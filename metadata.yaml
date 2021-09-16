@@ -1,0 +1,40 @@
+_repo: Marcel-Proust-An-English-Tribute_65930
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Scott-Moncrieff, C. K. (Charles Kenneth)
+    aliases:
+    - Scott-Moncrieff, Charles Kenneth
+    - Moncrieff, C. K. Scott
+    - Moncrieff, Charles Kenneth Scott
+    birthdate: 1889
+    deathdate: 1930
+    gutenberg_agent_id: '217'
+    url: http://www.gutenberg.org/2009/agents/217
+    wikipedia: https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff
+description: ''
+gutenberg_issued: '2021-07-27'
+identifiers:
+  gutenberg: '65930'
+  lccn: '24026194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Proust, Marcel, 1871-1922 -- Criticism and interpretation'
+- GITenberg
+tableOfContents: Introduction, by C.K.S.M. -- A Portrait, by Stephen Hudson -- The
+  Prophet of Despair, by Francis Birrell -- A Sensitive Petronius, by Ralph Wright
+  -- The “Little Proust”, by L. Pearsall Smith -- A Reader's Gratitude, by Compton
+  Mackenzie -- Gilberte, by Alec Waugh -- Proust's Women, by Catherine Carswell --
+  The Best Record, by Reginald Turner -- A Foot-note, by Clive Bell -- The Spell of
+  Proust, by Ethel C. Mayne -- A New Psychometry, by A.B. Walkley -- Proust and the
+  Modern Consciousness, by J. Middleton Murry -- Proust's Way, by Violet Hunt -- M.
+  Vinteuil's Sonata, by Dyneley Hussey -- A Note on the Little Phrase, by W.J. Turner
+  -- Proust as Creator, by Joseph Conrad -- A Moment to Spare, by G. Saintsbury --
+  A Real World in Fiction, by G.S. Street -- The Birth of a Classic, by Edgell Rickword
+  -- A Casuist in Souls, by Arthur Symons -- The Last Word, by Arnold Bennett.
+title: Marcel Proust, an English Tribute
+url: http://www.gutenberg.org/ebooks/65930
